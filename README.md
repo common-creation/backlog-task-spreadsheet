@@ -25,6 +25,8 @@ GoogleAppScriptのエディタを開きます
 
 - ![コード](./img/code.png)
 
+#### コードはこちら
+
 ```javascript
 // SpreadSheet
 var sheet_name = "課題一覧";
